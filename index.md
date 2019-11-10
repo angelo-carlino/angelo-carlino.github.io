@@ -21,7 +21,7 @@ In particular, I am interested in improving decision making support systems in t
 ## Other research interests:
 - Energy-water nexus  
   Integrated modelling of regional energy and water systems for:
-  + joint optimization
+  + joint optimization of planning and operations actions
   + impact and vulnerability assessment of electricity systems under climate change
 - Water resources systems modelling and simulation
 - Limnology
