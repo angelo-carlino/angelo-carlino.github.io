@@ -1,4 +1,4 @@
-<img src="fototessera.JPG" />
+<img src="fototessera.JPG" height=40/>
 
 PhD student in Information Technology at Politecnico di Milano.
 
@@ -16,4 +16,4 @@ My work focuses on:
 
 ## Work experience
 I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
-<img src="DSC_0483.JPG" />
+<img src="DSC_0483.JPG" height=100/>
