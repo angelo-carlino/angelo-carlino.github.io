@@ -7,9 +7,11 @@ Born in 1993 in Arezzo, Italy.
 I received my degree in environmental engineering (BS 2015, MS 2018 @ POLIMI).  
 Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.
 
-# Main Research
-My main research deals with integrated assessment modelling of climate change.  
-In particular, I am interested in supporting decision making in this context using:
+# Research
+
+## Integrated Assessment Modelling of Climate Change
+My main research deals with integrated assessment modelling (IAM) of climate change.  
+In particular, I am interested in improving decision making support systems in this context using:
 - multi-objective optimization
 - evolutionary algorithms
 - reinforcement learning
