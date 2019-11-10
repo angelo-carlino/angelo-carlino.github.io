@@ -1,9 +1,10 @@
 PhD student in Information Technology at Politecnico di Milano.
 
 # Short bio
-I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).  Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
+I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).  
+Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
 
-## Research interests
+# Research interests
 My work focuses on:
 - Integrated assessment modelling of climate change using:
   + multiobjective optimal control
@@ -15,3 +16,4 @@ My work focuses on:
 I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
 ![RITOM] (/DSC_0483.JPG?raw=true, "Ritom, Cadagno")
 ![RITOM2] (DSC_0483.JPG?raw=true)
+[[https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/DSC_0483.JPG]]
