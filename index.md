@@ -11,6 +11,8 @@ Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
 My main research deals with integrated assessment modelling of climate change.
 In particular, I am interested in supporting decision making in this context using:
 - multi-objective optimization
+- evolutionary algorithms
+- reinforcement learning
 - optimal control
 - stochastic models
 
