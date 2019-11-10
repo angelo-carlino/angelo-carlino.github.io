@@ -1,8 +1,7 @@
 PhD student in Information Technology at Politecnico di Milano.
 
 # Short bio
-I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).
-
+I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).  
 Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
 
 ## Research interests
