@@ -4,8 +4,8 @@ PhD student in Information Technology at Politecnico di Milano.
 
 # Short bio
 Born in 1993 in Arezzo, Italy.  
-I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).  
-Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
+I received my degree in environmental engineering (BS 2015, MS 2018 @ POLIMI).  
+Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.
 
 # Main Research
 My main research deals with integrated assessment modelling of climate change.  
@@ -16,14 +16,14 @@ In particular, I am interested in supporting decision making in this context usi
 - optimal control
 - stochastic models
 
-## Other research interests:
+# Other research interests:
 - Energy-water nexus: integrated modelling of regional energy and water systems for:
   + joint optimization
   + impact and vulnerability assessment of electricity systems under climate change
 - Water resources systems modelling and simulation
 - Limnology
 
-## Work experience
+# Work experience
 I did an internship and worked as a research assistant with EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
 <p style="text-align:center">
 <img src="IMG_20181226_132153.jpg" height="300" alt="Cadagno-work"/>  
