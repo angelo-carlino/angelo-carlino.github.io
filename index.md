@@ -1,4 +1,4 @@
-<img src="fototessera.JPG" height="150" style="float:right" alt="photo"/>
+<img src="fototessera.JPG" height="150" style="float:right" alt="photo"/>  
 
 BS in Environmental Engineering @ POLIMI (2015)  
 MS in Environmental Engineering @ POLIMI (2018)  
