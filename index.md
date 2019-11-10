@@ -4,7 +4,8 @@ PhD student in Information Technology at Politecnico di Milano.
 
 # Short bio
 Born in 1993 in Arezzo, Italy.  
-I received my degree in environmental engineering (BS 2015, MS 2018 @ POLIMI).  
+BS in environmental engineering @ POLIMI (2015)  
+MS in environmental engineering @ POLIMI (2018)  
 Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.
 
 # Research
@@ -18,7 +19,7 @@ In particular, I am interested in improving decision making support systems in t
 - optimal control
 - stochastic models
 
-# Other research interests:
+## Other research interests:
 - Energy-water nexus: integrated modelling of regional energy and water systems for:
   + joint optimization
   + impact and vulnerability assessment of electricity systems under climate change
