@@ -8,7 +8,7 @@ I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).
 Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
 
 # Main Research
-My main research deals with integrated assessment modelling of climate change.
+My main research deals with integrated assessment modelling of climate change.  
 In particular, I am interested in supporting decision making in this context using:
 - multi-objective optimization
 - evolutionary algorithms
@@ -21,6 +21,7 @@ In particular, I am interested in supporting decision making in this context usi
   + joint optimization
   + impact and vulnerability assessment of electricity systems under climate change
 - Water resources systems modelling and simulation
+- Limnology
 
 ## Work experience
 I did an internship and worked as a research assistant with EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
