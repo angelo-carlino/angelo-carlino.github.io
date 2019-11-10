@@ -17,3 +17,4 @@ I did an internship and worked as a research assistant with EPFL/Eawag studying 
 ![RITOM] (/DSC_0483.JPG?raw=true, "Ritom, Cadagno")
 ![RITOM2] (DSC_0483.JPG?raw=true)
 [[https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/DSC_0483.JPG]]
+<img src="DSC_0483.JPG" />
