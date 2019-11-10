@@ -1,3 +1,5 @@
+<img src="fototessera.JPG" />
+
 PhD student in Information Technology at Politecnico di Milano.
 
 # Short bio
@@ -14,7 +16,4 @@ My work focuses on:
 
 ## Work experience
 I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
-![RITOM] (/DSC_0483.JPG?raw=true, "Ritom, Cadagno")
-![RITOM2] (DSC_0483.JPG?raw=true)
-[[https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/DSC_0483.JPG]]
 <img src="DSC_0483.JPG" />
