@@ -13,4 +13,4 @@ My work focuses on:
 
 ## Work experience
 I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
-![alt text] (https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/DSC_0483.JPG, "LOGO TITLE TEXT")
+![RITOM] (https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/DSC_0483.JPG, "Ritom, Cadagno")
