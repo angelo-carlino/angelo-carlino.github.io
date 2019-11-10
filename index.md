@@ -1,8 +1,7 @@
 PhD student in Information Technology at Politecnico di Milano.
 
 # Short bio
-I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).  
-Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
+I received my degree in environmental engineering (BS 2015, MS 2018 @ polimi).  Currently, I'm a PhD student in Information Technology @ EI lab, polimi.
 
 ## Research interests
 My work focuses on:
@@ -13,4 +12,4 @@ My work focuses on:
 - Modelling and simulation for water resources systems
 
 ## Work experience
-I worked as a research assistant in the field of limnology studying the bacterial layer in lake Cadagno, Switzerland.
+I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.
