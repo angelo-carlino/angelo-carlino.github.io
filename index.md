@@ -1,4 +1,4 @@
-<img src="fototessera.JPG" height=200/>
+<img src="fototessera.JPG" height="200"/>
 
 PhD student in Information Technology at Politecnico di Milano.
 
