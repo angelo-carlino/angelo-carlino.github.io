@@ -15,7 +15,6 @@ My main research deals with integrated assessment modelling (IAM) of climate cha
 In particular, I am interested in improving decision making support systems in this context using:
 - multi-objective optimization
 - evolutionary algorithms
-- reinforcement learning
 - optimal control
 - stochastic models
 
