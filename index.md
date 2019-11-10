@@ -2,8 +2,8 @@
 
 BS in Environmental Engineering @ POLIMI (2015)  
 MS in Environmental Engineering @ POLIMI (2018)  
-Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.
-
+Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.  
+  
 # Research
 
 ## Integrated Assessment Modelling of Climate Change
