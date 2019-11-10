@@ -9,10 +9,10 @@ Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.
 ## Integrated Assessment Modelling of Climate Change
 My main research deals with integrated assessment modelling (IAM) of climate change.  
 In particular, I am interested in improving decision making support systems in this context using:
+- stochastic models
 - multi-objective optimization
 - evolutionary algorithms
 - optimal control
-- stochastic models
 
 ## Other research interests:
 - Energy-water nexus  
