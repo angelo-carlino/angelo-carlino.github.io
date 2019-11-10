@@ -26,4 +26,4 @@ I did an internship and worked as a research assistant with EPFL & Eawag studyin
 
 ## Contacts
 
-email: [mailto](mailto:angelocarlino@polimi.it)
+email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
