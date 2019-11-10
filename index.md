@@ -12,5 +12,5 @@ My work focuses on:
 - Modelling and simulation for water resources systems
 
 ## Work experience
-I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.
-![Cadagno, Ritom] (/DCS_0483.jpg)
+I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
+![Cadagno, Ritom] (DCS_0483.jpg)
