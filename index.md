@@ -16,6 +16,7 @@ My work focuses on:
 
 ## Work experience
 I did an internship and worked as a research assistant with EPFL/Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
+<p style="text-align:center">
 <img src="DSC_0152.JPG" height="300" alt="Cadagno"/>
-
+<\p>
 <img src="DSC_0483.JPG" alt="Ritom" height="300"/>  
