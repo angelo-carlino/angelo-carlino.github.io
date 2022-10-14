@@ -1,13 +1,16 @@
-<img align="left" src="fototessera.JPG" height="200" style="float:right" alt="photo"/>  
+<img align="left" src="fototessera.JPG" height="200" style="float:right" alt="photo"/>
 
 ### Angelo Carlino
 
-Postdoctoral researcher @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab </a>, Politecnico di Milano <br>
+Postdoctoral researcher @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, Politecnico di Milano <br>
 Visiting postdoctoral scholar @ Natural Capital Project, Stanford University
 
-<a href="https://scholar.google.com/citations?user=-8pdFX0AAAAJ&hl=en"> Google Scholar </a>  <br>
-<a href="www.twitter.com/AngeloCarlino3"> Twitter </a> <br>
-<a href="https://www.linkedin.com/in/angelo-carlino-570051170/"> LinkedIn </a> <br>
+email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
+
+<a href="https://scholar.google.com/citations?user=-8pdFX0AAAAJ&hl=en"> Google Scholar </a>  -
+<a href="www.twitter.com/AngeloCarlino3"> Twitter </a> -
+<a href="https://www.linkedin.com/in/angelo-carlino-570051170/"> LinkedIn </a> -
+<a href="https://orcid.org/0000-0002-8403-9070"> ORCID </a>
 
 <br clear="left"/>
 
@@ -48,7 +51,5 @@ The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/ze
 <br clear="left"/>
 </p>
 
-# Contact
 
-email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
