@@ -1,4 +1,6 @@
-<img align="left" src="fototessera.JPG" height="175" style="float:right" alt="photo"/>  
+<img align="left" src="fototessera.JPG" height="200" style="float:right" alt="photo"/>  
+
+### Angelo Carlino
 
 Postdoctoral researcher @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab </a>, Politecnico di Milano <br>
 Visiting postdoctoral scholar @ Natural Capital Project, Stanford University
