@@ -1,29 +1,42 @@
 <img src="fototessera.JPG" height="150" style="float:right" alt="photo"/>  
 
-BS in Environmental Engineering @ POLIMI (2015)  
-MS in Environmental Engineering @ POLIMI (2018)  
-Currently, I'm a PhD student in Information Technology @ EI lab, DEIB, POLIMI.  
+Postdoctoral researcher @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab </a>, Politecnico di Milano <br>
+Visiting postdoctoral scholar @ Natural Capital Project, Stanford University
+
+<a href="https://scholar.google.com/citations?user=-8pdFX0AAAAJ&hl=en"> Google Scholar </a> - 
+<a href="https://www.linkedin.com/in/angelo-carlino-570051170/"> LinkedIn </a> <br>
+
+# Education
+
+PhD in Information Technology @ Politecnico di Milano (2022) <br>
+BS in Environmental Engineering @ Politecnico di Milano (2015) <br>
+MS in Environmental Engineering @ Politecnico di Milano (2018)
   
 # Research
 
-## Integrated Assessment Modelling of Climate Change
-My main research deals with integrated assessment modelling (IAM) of climate change.  
-In particular, I am interested in improving decision making support systems in this context using:
+## Multi-objective adaptive decision-making for climate policy
+I am interested in improving decision-making support systems in this context using:
 - stochastic models
 - multi-objective optimization
 - evolutionary algorithms
 - optimal control
+- decision-making under deep uncertainty methods
 
-## Other research interests:
-- Energy-water nexus  
-  Integrated modelling of regional energy and water systems for:
-  + joint optimization of planning and operations actions
+## Low carbon energy systems
+- Life-cycle GHG emissions impact on power system planning
+- Integrated modelling of regional energy and water systems for:
+  + joint optimization of planning and operations
   + impact and vulnerability assessment of electricity systems under climate change
+- Strategic dam planning, also using robust optimization
+
+## Other minor research interests:
 - Water resources systems modelling and simulation
 - Limnology
 
-# Work experience
-I did an internship and worked as a research assistant with EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  
+# Other experience
+I worked for two summers as an intern/researcher at EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  <br>
+The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/zenodo.7127882.svg"> a publicly available dataset </a> which has been used in a number of studies.
+
 <p style="text-align:center">
 <img src="IMG_20181226_132153.jpg" height="300" alt="Cadagno-work"/>  
 </p>
