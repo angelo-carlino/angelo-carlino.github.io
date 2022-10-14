@@ -19,7 +19,7 @@ MS in Environmental Engineering @ Politecnico di Milano (2018)
   
 # Research
 
-## Multi-objective adaptive decision-making for climate policy
+### Multi-objective adaptive decision-making for climate policy
 I am interested in improving decision-making support systems in this context using:
 - stochastic models
 - multi-objective optimization
@@ -27,18 +27,18 @@ I am interested in improving decision-making support systems in this context usi
 - optimal control
 - decision-making under deep uncertainty methods
 
-## Low-carbon energy systems
+### Low-carbon energy systems
 - Life-cycle GHG emissions impact on power system planning
 - Integrated modelling of regional energy and water systems for:
   + joint optimization of planning and operations
   + impact and vulnerability assessment of electricity systems under climate change
 - Strategic dam planning, also using robust optimization
 
-## Other research interests:
+### Other research interests:
 - Water resources systems modelling and simulation
 - Limnology
 
-## Other experience
+### Other experience
 I worked for two summers as an intern/researcher at EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  <br>
 The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/zenodo.7127882.svg"> a publicly available dataset </a> which has been used in a number of studies.
 
