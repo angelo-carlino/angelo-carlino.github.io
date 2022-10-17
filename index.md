@@ -2,7 +2,7 @@
 
 ### Angelo Carlino
 
-Postdoctoral researcher @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, Politecnico di Milano <br>
+Postdoc @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, Politecnico di Milano <br>
 Visiting postdoctoral scholar @ Natural Capital Project, Stanford University
 
 email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
@@ -47,7 +47,7 @@ The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/ze
 
 <p align="center">
 <img align="left" src="IMG_20181226_132153.jpg" width=300px alt="Cadagno-work"/>  
-<img src="DSC_0152_.jpg" width=300px alt="Cadagno"/>
+<img src="DSC_0152_.jpg" width=300px align="right" alt="Cadagno"/>
 <br clear="left"/>
 </p>
 
