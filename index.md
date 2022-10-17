@@ -1,4 +1,4 @@
-<img style="float: left; padding: 0px 0px 0px 10px;" src="fototessera2021_2.jpg" height="200" alt="photo"/>
+<img style="float: left; padding: 0px 10px 0px 0px;" src="fototessera2021_2.jpg" height="200" alt="photo"/>
 
 ### Angelo Carlino
 
