@@ -1,4 +1,4 @@
-<img align="left" src="fototessera2021_2.jpg" height="200" style="float:right" alt="photo"/>
+<img align="left" src="fototessera2021_2.jpg" height="200" alt="photo"/>
 
 ### Angelo Carlino
 
