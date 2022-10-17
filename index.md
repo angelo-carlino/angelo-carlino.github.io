@@ -3,7 +3,7 @@
 ### Angelo Carlino
 
 Postdoc @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, Politecnico di Milano <br>
-Visiting postdoctoral scholar @ Natural Capital Project, Stanford University
+Visiting postdoc @ Natural Capital Project, Stanford University
 
 email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
