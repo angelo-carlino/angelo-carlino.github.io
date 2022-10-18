@@ -16,13 +16,18 @@ email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
 <hr>
 
+<br>
+
 # Education
 
-PhD in Information Technology @ Politecnico di Milano (2022) <br>
-BS in Environmental Engineering @ Politecnico di Milano (2015) <br>
-MS in Environmental Engineering @ Politecnico di Milano (2018)
-  
+2022 - PhD in Information Technology @ Politecnico di Milano<br>
+- Dissertation: "Decision-making under uncertainty for complex socio-environmental systems"
+2018 - MS in Environmental Engineering @ Politecnico di Milano <br>
+2015 - BS in Environmental Engineering @ Politecnico di Milano
+
 <hr>
+
+<br> 
 
 # Research
 
@@ -49,6 +54,8 @@ I am interested in improving decision-making support systems in this context usi
 
 <hr>
 
+<br>
+
 ## Other experience
 
 I worked for two summers as an intern/researcher at EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  <br>
@@ -59,6 +66,3 @@ The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/ze
 <img src="DSC_0152_.jpg" width=300px align="right" alt="Cadagno"/>
 <br clear="left"/>
 </p>
-
-
-
