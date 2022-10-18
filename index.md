@@ -14,13 +14,13 @@ email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
 <br clear="left"/>
 
-# Education
+# <p align="right"> Education </p>
 
 PhD in Information Technology @ Politecnico di Milano (2022) <br>
 BS in Environmental Engineering @ Politecnico di Milano (2015) <br>
 MS in Environmental Engineering @ Politecnico di Milano (2018)
   
-# Research
+# <p align="right"> Research </p>
 
 ## Multi-objective adaptive decision-making for climate policy
 I am interested in improving decision-making support systems in this context using:
@@ -41,7 +41,7 @@ I am interested in improving decision-making support systems in this context usi
 - Water resources systems modelling and simulation
 - Limnology
 
-## Other experience
+## <p align="right"> Other experience </p>
 I worked for two summers as an intern/researcher at EPFL & Eawag studying the bacterial layer in lake Cadagno, Switzerland.  <br>
 The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/zenodo.7127882.svg"> a publicly available dataset </a> which has been used in a number of studies.
 
