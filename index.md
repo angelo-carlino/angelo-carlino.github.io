@@ -14,12 +14,16 @@ email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
 <br clear="left"/>
 
+<hr>
+
 # Education
 
 PhD in Information Technology @ Politecnico di Milano (2022) <br>
 BS in Environmental Engineering @ Politecnico di Milano (2015) <br>
 MS in Environmental Engineering @ Politecnico di Milano (2018)
   
+<hr>
+
 # Research
 
 ## Multi-objective adaptive decision-making for climate policy
@@ -40,9 +44,10 @@ I am interested in improving decision-making support systems in this context usi
 - Strategic dam planning, also using robust optimization
 
 ## Other research interests:
-
 - Water resources systems modelling and simulation
 - Limnology
+
+<hr>
 
 ## Other experience
 
