@@ -6,7 +6,7 @@ Postdoc @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, P
 Visiting postdoc @ Natural Capital Project, Stanford University <br>
 <br>
 email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
-
+<br>
 <a href="https://scholar.google.com/citations?user=-8pdFX0AAAAJ&hl=en"> Google Scholar </a>  -
 <a href="www.twitter.com/AngeloCarlino3"> Twitter </a> -
 <a href="https://www.linkedin.com/in/angelo-carlino-570051170/"> LinkedIn </a> -
@@ -20,10 +20,11 @@ email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
 # Education
 
-2022 - PhD in Information Technology @ Politecnico di Milano<br>
+2022 - PhD in Information Technology @ Politecnico di Milano
   + Dissertation: "Decision-making under uncertainty for complex socio-environmental systems"
  
-2018 - MS in Environmental Engineering @ Politecnico di Milano <br>
+2018 - MS in Environmental Engineering @ Politecnico di Milano 
+<br>
 2015 - BS in Environmental Engineering @ Politecnico di Milano
 
 <br>
