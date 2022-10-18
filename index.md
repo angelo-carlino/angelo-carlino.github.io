@@ -1,8 +1,9 @@
 <img style="float: left; padding: 0px 10px 0px 0px;" src="fototessera2021_2.jpg" height="200" alt="photo"/>
 
+<br>
 Postdoc @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, Politecnico di Milano <br>
 <br>
-Visiting postdoc @ Natural Capital Project, Stanford University
+Visiting postdoc @ Natural Capital Project, Stanford University <br>
 <br>
 email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
