@@ -14,20 +14,21 @@ email: [angelo.carlino@polimi.it](mailto:angelo.carlino@polimi.it)
 
 <br clear="left"/>
 
-<hr>
-
 <br>
+
+<hr>
 
 # Education
 
 2022 - PhD in Information Technology @ Politecnico di Milano<br>
-- Dissertation: "Decision-making under uncertainty for complex socio-environmental systems"
+  + Dissertation: "Decision-making under uncertainty for complex socio-environmental systems"
+ 
 2018 - MS in Environmental Engineering @ Politecnico di Milano <br>
 2015 - BS in Environmental Engineering @ Politecnico di Milano
 
-<hr>
+<br>
 
-<br> 
+<hr> 
 
 # Research
 
@@ -52,9 +53,10 @@ I am interested in improving decision-making support systems in this context usi
 - Water resources systems modelling and simulation
 - Limnology
 
+<br>
+
 <hr>
 
-<br>
 
 ## Other experience
 
