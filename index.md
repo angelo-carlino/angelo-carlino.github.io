@@ -34,21 +34,20 @@ email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 ## Multi-objective adaptive decision-making for climate policy
 
 I am interested in improving decision-making support systems in this context using:
-- stochastic models
+- stochastic models & optimal control
+- decision-making under deep uncertainty methods
 - multi-objective optimization
 - evolutionary algorithms
-- optimal control
-- decision-making under deep uncertainty methods
 
 ## Energy systems modeling
 
-- Integrated modelling of regional energy systems for:
+- Integrated modeling of regional energy systems for:
   + joint optimization of planning and operations
   + impact and vulnerability assessment of electricity systems under climate change
 - Strategic dam planning
 
 ## Other research interests:
-- Water resources systems modelling and simulation
+- Water resources systems modeling and simulation
 - Limnology
 
 <br>
