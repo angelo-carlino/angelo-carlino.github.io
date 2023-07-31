@@ -1,7 +1,11 @@
 <img style="float: left; padding: 10px 10px 0px 0px;" src="fototessera2021.jpg" height="200" alt="photo"/>
 
 <br>
-Postdoc Fellow @ Carnegie Institution for Science, Stanford, USA <br>
+Postdoc Fellow 
+<br>
+Carnegie Institution for Science
+<br>
+Stanford, CA, USA <br>
 <br>
 email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 <br>
@@ -36,7 +40,7 @@ email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 I am interested in improving decision-making support systems in this context using:
 - stochastic models & optimal control
 - decision-making under deep uncertainty methods
-- multi-objective optimization using evolutionary algorithms
+- multi-objective optimization via evolutionary algorithms
 
 ## Energy systems modeling
 
