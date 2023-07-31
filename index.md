@@ -36,8 +36,7 @@ email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 I am interested in improving decision-making support systems in this context using:
 - stochastic models & optimal control
 - decision-making under deep uncertainty methods
-- multi-objective optimization
-- evolutionary algorithms
+- multi-objective optimization using evolutionary algorithms
 
 ## Energy systems modeling
 
