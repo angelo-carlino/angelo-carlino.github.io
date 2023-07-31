@@ -1,7 +1,7 @@
 <img style="float: left; padding: 10px 10px 0px 0px;" src="fototessera2021.jpg" height="200" alt="photo"/>
 
 <br>
-Postdoc Fellow @ <a href="www.ei.deib.polimi.it"> Environmental Intelligence Lab</a>, Carnegie Institution for Science, Stanford, USA <br>
+Postdoc Fellow @ Carnegie Institution for Science, Stanford, USA <br>
 <br>
 email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 <br>
