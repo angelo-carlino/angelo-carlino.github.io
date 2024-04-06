@@ -20,58 +20,11 @@ email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 
 <hr>
 
-[Education](#Education) 
-[Research](#Research) 
-<a href="https://angelo-carlino.github.io/otherExp.md/">Other Experience</a>
-
-# Education
-
-2022 - PhD in Information Technology @ Politecnico di Milano
-  + Dissertation: "Decision-making under uncertainty for complex socio-environmental systems"
- 
-2018 - MS in Environmental Engineering @ Politecnico di Milano <br>
-<br>
-2015 - BS in Environmental Engineering @ Politecnico di Milano
-
+I am a postdoctoral fellow in the <a href="https://climateenergylab.org/">Climate Energy Lab</a> at the Carnegie Institution for Science at Stanford, USA. 
 <br>
 
-<hr> 
-
-# Research
-
-## Technology innovation forecasts
-
-- What is the predictive skill of experience curves for technology forecasts?
-
-## Integrated water-energy-climate modeling
-
-- Strategic dam planning
-  + Sequencing of hydropower projects within energy system planning
-  + Reducing conflicts between the environmental and techno-economic objectives
-- Joint optimization of planning and operations
-- Impact and vulnerability assessment of electricity systems under climate change
-
-## Decision-making under uncertainty for climate policy
-
-- Robust decision-making
-- Multi-objective optimal control
-- Cooperative multi-agent policy search
-
-## Other research interests:
-- Limnology
-
+I am interested in applying methods for decision-making under uncertainty to sustainability challenges, in particular, to support energy, water, and climate policy design.
 <br>
 
-<hr>
-
-
-## Other experience
-
-I worked for two summers as an intern/researcher at EPFL & Eawag studying the bacterial layer in Lake Cadagno, Switzerland.  <br>
-The field campaigns resulted in <a href="https://zenodo.org/badge/DOI/10.5281/zenodo.7127882.svg"> a publicly available dataset </a> which has been used in a number of studies.
-
-<p align="center">
-<img align="left" src="IMG_20181226_132153.jpg" width=300px alt="Cadagno-work"/>  
-<img src="DSC_0152_.jpg" width=300px align="right" alt="Cadagno"/>
-<br clear="left"/>
-</p>
+I earned my BSc and MSc in Environmental Engineering from Politecnico di Milano where I also obtained my PhD in Information Technology in 2022. 
+After that, I was a visiting postdoctoral scholar at the Natural Capital Project at Stanford University.
