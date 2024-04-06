@@ -1,4 +1,4 @@
-<img style="float: left; padding: 10px 10px 0px 0px;" src="fototessera2021.jpg" height="200" alt="photo"/>
+<img style="float: left; padding: 10px 10px 0px 0px;" src="ACarlino.jpeg" height="200" alt="photo"/>
 
 <br>
 Postdoc Fellow 
