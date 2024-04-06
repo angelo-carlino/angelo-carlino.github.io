@@ -23,7 +23,7 @@ title: Research Interests
 - <a href="https://doi.org/10.1016/j.ifacol.2020.12.786"> Multi-objective optimal control for climate policy design</a>
 - <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF002767"> Self-adaptive multi-objective climate policies to align mitigation and adaptation strategies </a>
 - <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac843b"> Robust decision-making to align economic, environmental, and social objectives in climate policy design</a>
-- Cooperative multi-agent policy search (in progress)
+- Cooperative multi-agent climate policy design (in progress)
 
 ## Other research interests:
 - <a href="angelo-carlino.github.io/otherExp.html"> Limnology</a>
