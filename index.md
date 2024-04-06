@@ -1,7 +1,7 @@
 <img style="float: left; padding: 10px 10px 0px 0px;" src="ACarlino.jpeg" height="200" alt="photo"/>
 
 <br>
-Postdoc Fellow 
+Postdoctoral Fellow 
 <br>
 Carnegie Institution for Science
 <br>
@@ -20,10 +20,10 @@ email: [acarlino@carnegiescience.edu](mailto:acarlino@carnegiescience.edu) <br>
 
 <hr>
 
-I am a postdoctoral fellow in the <a href="https://climateenergylab.org/">Climate Energy Lab</a> at the Carnegie Institution for Science at Stanford, USA. 
+I am a postdoctoral fellow in the <a href="https://climateenergylab.org/">Climate Energy Lab</a> at the Carnegie Institution for Science at Stanford, USA. I am currently working on decision-making under uncertainty for technological innovation and energy system modeling.
 <br>
 
-I am interested in applying methods for decision-making under uncertainty to sustainability challenges, in particular, to support energy, water, and climate policy design. See more at <a href="angelo-carlino.github.io/Research.html"> Research Interest</a>.
+In my research, I am interested in developing and applying methods to address complex sustainability challenges, in particular, to support infrastructural planning for the energy and water sectors and climate policy design. See more at <a href="angelo-carlino.github.io/Research.html"> Research Interest</a>.
 <br>
 
 I earned my BSc and MSc in Environmental Engineering from Politecnico di Milano where I also obtained my PhD in Information Technology in 2022 in the <a href="https://www.ei.deib.polimi.it/"> Environmental Intelligence Lab</a>. 
