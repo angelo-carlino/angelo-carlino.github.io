@@ -26,5 +26,5 @@ I am a postdoctoral fellow in the <a href="https://climateenergylab.org/">Climat
 In my research, I am interested in developing and applying methods to address complex sustainability challenges, in particular, to support infrastructural planning for the energy and water sectors and climate policy design. See more at <a href="angelo-carlino.github.io/Research.html"> Research Interest</a>.
 <br>
 
-I earned my BSc and MSc in Environmental Engineering from Politecnico di Milano where I also obtained my PhD in Information Technology in 2022 in the <a href="https://www.ei.deib.polimi.it/"> Environmental Intelligence Lab</a>. 
+I earned my BSc and MSc in Environmental Engineering from Politecnico di Milano where I also obtained my PhD in Information Technology in 2022 in the <a href="https://www.ei.deib.polimi.it/"> Environmental Intelligence Lab</a>. During my PhD, I participated in the <a href="https://iiasa.ac.at/early-career/yssp">Young Scientist Summer Program</a> at IIASA.
 After that, I was a visiting postdoctoral scholar at the <a href="https://naturalcapitalproject.stanford.edu/"> Natural Capital Project</a> at Stanford University. See more at <a href="angelo-carlino.github.io/Education.html"> Education</a>.
