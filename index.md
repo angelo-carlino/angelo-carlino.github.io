@@ -26,5 +26,5 @@ I am a postdoctoral fellow in the <a href="https://climateenergylab.org/">Climat
 I am interested in applying methods for decision-making under uncertainty to sustainability challenges, in particular, to support energy, water, and climate policy design. See more at <a href="https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/Research.html"> Research Interest</a>.
 <br>
 
-I earned my BSc and MSc in Environmental Engineering from Politecnico di Milano where I also obtained my PhD in Information Technology in 2022. 
-After that, I was a visiting postdoctoral scholar at the Natural Capital Project at Stanford University. See more at <a href="https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/Education.html"> Education</a>.
+I earned my BSc and MSc in Environmental Engineering from Politecnico di Milano where I also obtained my PhD in Information Technology in 2022 in the <a href="https://www.ei.deib.polimi.it/"> Environmental Intelligence Lab</a>. 
+After that, I was a visiting postdoctoral scholar at the <a href="https://naturalcapitalproject.stanford.edu/"> Natural Capital Project</a> at Stanford University. See more at <a href="https://github.com/angelo-carlino/angelo-carlino.github.io/blob/master/Education.html"> Education</a>.
