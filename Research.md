@@ -4,6 +4,9 @@ title: Research Interests
 
 <a href="https://scholar.google.com/citations?user=-8pdFX0AAAAJ&hl=en"> Google Scholar </a>
 
+I aim to support infrastructural planning decisions for the energy and water sector to increase robustness to future socioeconomic and climate change. Additionally, I am interested in mitigating the conflicts between traditional cost-minimization approaches and environmental and social objectives to address broader sustainability challenges.
+
+From a methodological perspective, I am interested in developing and applying techniques from evolutionary multi-objective optimization, stochastic optimal control, and artificial intelligence to address complex sustainability challenges.
 
 ## Technology innovation forecasts
 
