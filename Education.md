@@ -2,6 +2,8 @@
 title: “Education”
 ---
 
+# Education
+
 2022 - PhD in Information Technology @ Politecnico di Milano
   + Dissertation: "Decision-making under uncertainty for complex socio-environmental systems"
  
