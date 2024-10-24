@@ -2,7 +2,7 @@
 title: Education
 ---
 
-**Ph.D. in Information Technology (Systems and Control)** <br>
+**Ph.D. in Information Technology - Systems and Control** <br>
 *Politecnico di Milano, Italy, 2018-2022* <br>
 <a href="https://www.politesi.polimi.it/handle/10589/183021"> Dissertation: "Decision-making under uncertainty for complex socio-environmental systems" </a>
   + Virtual Young Scientist Summer Program <br>
