@@ -16,7 +16,7 @@ From a methodological perspective, I am interested in developing and applying te
 
 - Strategic dam planning
   + <a href="https://www.science.org/doi/10.1126/science.adf5848"> Sequencing African hydropower projects within energy system planning</a>
-  + Exploring conflicts between environmental and techno-economic objectives for African hydropower expansion (in progress)
+  + <a href="https://www.nature.com/articles/s41893-024-01367-x"> Reducing conflicts between environmental and energy objectives for African hydropower planning
 - <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003186"> Joint optimization of planning and operations in the Zambezi River Basin</a>
 - <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac243f"> Impact and vulnerability assessment of electricity systems under climate change</a>
 
