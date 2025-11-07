@@ -8,7 +8,7 @@ I aim to support infrastructural planning decisions in the energy and water sect
 
 From a methodological perspective, I focus on developing and applying techniques from evolutionary multi-objective optimization, stochastic optimal control, operations research, and artificial intelligence to address complex sustainability challenges.
 
-## Integrated water-energy-climate modeling
+## Integrated water-energy-climate planning
 
 #### Published
 - <a href="https://www.science.org/doi/10.1126/science.adf5848"> Sequencing African hydropower projects within energy system planning</a>
@@ -27,9 +27,10 @@ From a methodological perspective, I focus on developing and applying techniques
 - Cooperative multi-agent policy search for climate policy
 
 ## Technology innovation
+- <a href="https://doi.org/10.1016/j.adapen.2025.100252"> Variability of technology learning rates </a>
 
-#### In progress / under review
-- What is the predictive skill of experience curves for technology forecasts?
+## Climate adaptation and mitigation
+- <a href="https://doi.org/10.1038/s43247-024-01976-6"> Benefits of combined adaptation and mitigation </a>
 
 
 
