@@ -22,9 +22,7 @@ From a methodological perspective, I focus on developing and applying techniques
 - <a href="https://doi.org/10.1016/j.ifacol.2020.12.786"> Multi-objective optimal control for climate policy design</a>
 - <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF002767"> Self-adaptive multi-objective climate policies to align mitigation and adaptation strategies </a>
 - <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac843b"> Robust decision-making to align economic, environmental, and social objectives in climate policy design</a>
-
-#### In progress / under review
-- Cooperative multi-agent policy search for climate policy
+- <a href="https://doi.org/10.1088/1748-9326/ae803a"> Cooperative multi-agent policy search for climate policy: mitigation, adaptation, and financial transfers
 
 ## Technology innovation
 - <a href="https://doi.org/10.1016/j.adapen.2025.100252"> Variability of technology learning rates </a>
